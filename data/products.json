@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "Vaccum Cleaner ",
+    "name": "Vaccum Cleaner 15/30/60/80 Liters",
+    "slug": "vaccum-cleaner",
+    "category": "Cleaning Machines",
+    "description": "Vaccum Cleaner is a powerful and efficient cleaning machine designed to remove dust, dirt, and debris from various surfaces, ensuring a clean and hygienic environment.",
+    "industries": ["Hospitals", "Malls", "Hotels"],
+    "image": "/Machine/Vaccum-cleaner.webp",
+    "featured": true
+  },
+  {
+    "id": "Upholstery vacuum cleaner",
+    "name": "Upholstery Vacuum Cleaner",
+    "slug": "upholstery-vacuum-cleaner",
+    "category": "Cleaning Machines",
+    "description": "Specialized vacuum cleaner for cleaning upholstery and fabric surfaces.",
+    "industries": ["Hotels", "Corporate Offices", "Residential"],
+    "image": "/Machine/Up.png"
+  },
+  {
+    "id": "Carpet Injection Machine",
+    "name": "Carpet Injection Machine",
+    "slug": "carpet-injection-machine",
+    "category": "Cleaning Machines",
+    "description": "Specialized machine for injecting cleaning solutions into carpets and upholstery.",
+    "industries": ["Hotels", "Corporate Offices", "Residential"],
+    "image": "/Machine/carpet.jpg"
+    
+  },
+
+  {
+    "id": "Blower",
+    "name": "Blower",
+    "slug": "blower",
+    "category": "Cleaning Machines",
+    "description": "Powerful blower for efficient cleaning of various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Machine/Blow.jpg"
+  },
+
+  {
+    "id": "SkyVac",
+    "name": "SkyVac",
+    "slug": "skyvac",
+    "category": "Cleaning Machines",
+    "description": "Skyvac is a specialized cleaning machine designed for high-reach cleaning tasks, such as windows, ceilings, and other elevated surfaces. It provides efficient and safe cleaning solutions for hard-to-reach areas.",
+    "industries": ["Hotels", "Corporate Offices", "Residential"],
+    "image": "/Machine/Sky.jpg"
+    
+  },
+
+  {
+    "id": "Scrubbing Machine",
+    "name": "Scrubbing Machine",
+    "slug": "scrubbing-machine",
+    "category": "Cleaning Machines",
+    "description": "Specialized machine for scrubbing and cleaning various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Machine/Scrub.jpg"
+    
+  },
+
+  {
+    "id": "Manual Sweeper",
+    "name": "Manual Sweeper",
+    "slug": "manual-sweeper",
+    "category": "Cleaning Machines",
+    "description": "Manual sweeper for efficient cleaning of various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Machine/Sweeper.jpg"
+  },
+  
+    
+  {
+    "id": "Soft Broom",
+    "name": "Soft Broom",
+    "slug": "soft-broom",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Gentle yet effective broom for sweeping delicate surfaces and removing light debris.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Toools/SoftBroom.jpg"
+  },
+  {
+    "id": "Mop",
+    "name": "Mop",
+    "slug": "mop",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Effective mop for cleaning various floor surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Toools/mop.jpg"
+  },
+  
+
+  {
+    "id": "Looped Mop",
+    "name": "Looped Mop",
+    "slug": "looped-mop",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Effective looper mop for cleaning various floor surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Toools/Looped.jpg"
+  },
+  {
+    "id": "Dry Mop Set",
+    "name": "Dry Mop Set",
+    "slug": "dry-mop-set",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Effective dry mop set for cleaning various floor surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Toools/DryMop.jpg",
+    "featured": true
+  },
+  {
+    "id": "Aluminum Mop",
+    "name": "Aluminum Mop",
+    "slug": "aluminum-mop",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable aluminum mop for efficient cleaning of various floor surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Toools/Aluminium.jpg"
+  },
+  {
+    "id": "SS Metal Rod",
+    "name": "SS Metal Rod",
+    "slug": "ss-metal-rod",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable stainless steel rod for efficient cleaning of various floor surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Toools/ss stick.jpg"
+  },
+  {
+    "id": "Wodden Stick",
+    "name": "Wodden Stick",
+    "slug": "wooden-stick",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Adjustable floor wiper that clears water fast for spotless, streak-free surfaces.",
+    "industries": ["Malls", "Banquet Halls", "Residential Complexes"],
+    "image": "/Toools/Wooden.jpg"
+  },
+
+  {
+    "id": "Powder Metal Stick",
+    "name": "Powder Metal Stick",
+    "slug": "powder-metal-stick",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable powder-coated metal stick for efficient cleaning of various floor surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Toools/Powder.jpg"
+  },
+
+  {
+    "id": "MR Tall Brush",
+    "name": "MR Tall Brush",
+    "slug": "mr-tall-brush",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable tall brush for efficient cleaning of various floor surfaces.",
+    "industries": ["Factories", "Hospitals", "Hotels"],
+    "image": "/Toools/Mr.jpg"
+  },
+  {
+    "id": "Hard Brush",
+    "name": "Hard Brush",
+    "slug": "hard-brush",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable hard brush for efficient cleaning of various floor surfaces.",
+    "industries": ["Factories", "Hospitals", "Hotels"],
+    "image": "/Toools/Hard.jpg"
+  },
+  {
+    "id": "Scrubbing Brush",
+    "name": "Scrubbing Brush",
+    "slug": "scrubbing-brush",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable scrubbing brush for efficient cleaning of various floor surfaces.",
+    "industries": ["Factories", "Hospitals", "Hotels"],
+    "image": "/Toools/Scrub.jpg"
+  },
+  {
+    "id": "Carpet Brush Plastic",
+    "name": "Carpet Brush Plastic",
+    "slug": "carpet-brush-plastic",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable plastic carpet brush for efficient cleaning of various floor surfaces.",
+    "industries": ["Factories", "Hospitals", "Hotels"],
+    "image": "/Toools/Carpet.jpg"
+  },
+  {
+    "id": "Carpet Brush Wooden",
+    "name": "Carpet Brush Wooden",
+    "slug": "carpet-brush-wooden",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable wooden carpet brush for efficient cleaning of various floor surfaces.",
+    "industries": ["Factories", "Hospitals", "Hotels"],
+    "image": "/Toools/Carpet wooden.jpg"
+  },
+  {
+    "id": "Toilet Brush Round",
+    "name": "Toilet Brush Round",
+    "slug": "toilet-brush-round",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable round toilet brush for efficient cleaning of various bathroom surfaces.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/ToiletBrush.jpg"
+  },
+  {
+    "id": "Toilet Brush Container",
+    "name": "Toilet Brush Container",
+    "slug": "toilet-brush-container",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable container for storing and organizing toilet brushes.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/toiletcontainer.jpg"
+  },
+  {
+    "id": "Toilet Brush With Single Hockey Stick",
+    "name": "Toilet Brush With Single Hockey Stick",
+    "slug": "toilet-brush-with-single-hockey-stick",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable toilet brush with a single hockey stick for efficient cleaning of various bathroom surfaces.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/SingleHockey.jpg"
+  },
+  {
+    "id": "Toilet Brush With Double Hockey Stick",
+    "name": "Toilet Brush With Double Hockey Stick",
+    "slug": "toilet-brush-with-double-hockey-stick",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable toilet brush with a double hockey stick for efficient cleaning of various bathroom surfaces.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/Double.jpg"
+  },
+  {
+    "id": "Sink Brush",
+    "name": "Sink Brush",
+    "slug": "sink-brush",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable brush for cleaning sinks and other bathroom fixtures.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/Sink.jpg"
+  },
+  {
+    "id": "Cloth Brush",
+    "name": "Cloth Brush",
+    "slug": "cloth-brush",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable cloth brush for cleaning various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/Cloth.jpg"
+  },
+  {
+    "id": "Bottle Brush",
+    "name": "Bottle Brush",
+    "slug": "bottle-brush",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Multi-purpose brush set for scrubbing Bottles, grout, corners and hard-to-reach areas.",
+    "industries": ["Schools & Colleges", "Residential Complexes", "Corporate Offices"],
+    "image": "/Toools/Bottle.jpg"
+  },
+  {
+    "id": "Feather Brush",
+    "name": "Feather Brush",
+    "slug": "feather-brush",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Multi-purpose brush set for scrubbing Bottles, grout, corners and hard-to-reach areas.",
+    "industries": ["Schools & Colleges", "Residential Complexes", "Corporate Offices"],
+    "image": "/Toools/Feather.jpg"
+  },
+  {
+    "id": "Sponge Brush",
+    "name": "Sponge Brush",
+    "slug": "sponge-brush",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Multi-purpose brush set for scrubbing Bottles, grout, corners and hard-to-reach areas.",
+    "industries": ["Schools & Colleges", "Residential Complexes", "Corporate Offices"],
+    "image": "/Toools/Sponge.jpg"
+  },
+
+  {
+    "id": "Scrubpad Green",
+    "name": "Scrubpad Green",
+    "slug": "scrubpad-green",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable scrub pad for cleaning various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/Scrubpad.jpg"
+  },
+
+    {
+    "id": "Scrubpad Steel",
+    "name": "Scrubpad Steel",
+    "slug": "scrubpad-steel",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable scrub pad for cleaning various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/Steel.jpg"
+  },
+  {
+    "id": "Carpet Roller",
+    "name": "Carpet Roller",
+    "slug": "carpet-roller",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Efficient carpet cleaning roller for deep stain removal.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/CarpetRoller.webp"
+  },
+
+  {
+    "id": "Wiper With Brush",
+    "name": "Wiper With Brush",
+    "slug": "wiper-with-brush",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Efficient wiper with brush for cleaning various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/Wiper.jpg"
+  },
+  
+  {
+    "id": "Versa Wiper",
+    "name": "Versa Wiper",
+    "slug": "versa-wiper",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Versatile wiper for efficient cleaning of various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/Versa.jpg"
+  },
+
+  {
+    "id": "Glass Wiper",
+    "name": "Glass Wiper",
+    "slug": "glass-wiper",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Specialized wiper for cleaning glass surfaces.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/Glass.webp"
+  },
+
+  {
+    "id": "Table Wiper",
+    "name": "Table Wiper",
+    "slug": "table-wiper",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Versatile wiper for efficient cleaning of various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/Table.jpg"
+  },
+  {
+    "id": "Dust Pan",
+    "name": "Dust Pan",
+    "slug": "dust-pan",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Essential cleaning tool for collecting dust and debris.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/Dust.jpg"
+  },
+
+  {
+    "id": "Dust Pan With Brush",
+    "name": "Dust Pan With Brush",
+    "slug": "dust-pan-with-brush",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Essential cleaning tool for collecting dust and debris.",
+    "industries": ["Hospitals", "Hotels", "Residential Complexes"],
+    "image": "/Toools/DustBrush.jpg"
+  },
+
+  {
+    "id": "Garden Brush",
+    "name": "Garden Brush",
+    "slug": "garden-brush",
+    "category": "Cleaning Tools & Accessories",
+    "description": "Durable brush for cleaning garden tools and outdoor surfaces.",
+    "industries": ["Residential Complexes", "Corporate Offices"],
+    "image": "/Toools/Garden.jpg"
+  },
+    
+  {
+    "id": "Wringer Trolley",
+    "name": "Wringer Trolley",
+    "slug": "wringer-trolley",
+    "category": "Housekeeping Trolleys",
+    "description": "Spacious housekeeping cart designed for hotel room servicing and linen transport.",
+    "industries": ["Hotels", "Banquet Halls", "Residential Complexes"],
+    "image": "/Trolleys/Wringer.jpg"
+  },
+
+  {
+    "id": "Stainless-Steel Dustbin",
+    "name": "Stainless-Steel Dustbin",
+    "slug": "stainless-steel-dustbin",
+    "category": "Housekeeping Trolleys",
+    "description": "Durable dustbin made of stainless steel for efficient waste collection.",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/Dustbin.jpg",
+    "featured": true
+  },
+  {
+    "id": "20 ltr Wringer Trolley",
+    "name": "20 Ltr Wringer Trolley",
+    "slug": "20-ltr-wringer-trolley",
+    "category": "Housekeeping Trolleys",
+    "description": "Spacious wringer trolley with 20-liter capacity for efficient linen handling.",
+    "industries": ["Hotels", "Banquet Halls", "Residential Complexes"],
+    "image": "/Trolleys/20.jpg"
+  },
+  
+  {
+    "id": "Portable Bucket",
+    "name": "Portable Bucket",
+    "slug": "portable-bucket",
+    "category": "Housekeeping Trolleys",
+    "description": "Durable bucket for carrying and transporting cleaning supplies and equipment.",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/Bucket.jpg"
+  },
+
+  {
+    "id": "Two Pocket Bucket",
+    "name": "Two Pocket Bucket",
+    "slug": "two-pocket-bucket",
+    "category": "Housekeeping Trolleys",
+    "description": "Durable bucket for carrying and transporting cleaning supplies and equipment.",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/2Bucket.jpg"
+  },
+{
+    "id": "Resturant Trolley",
+    "name": "Restaurant Trolley",
+    "slug": "restaurant-trolley",
+    "category": "Housekeeping Trolleys",
+    "description": "Durable trolley for carrying and transporting cleaning supplies and equipment.",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/Res.jpg"
+  },
+
+
+  {
+    "id": "Taski",
+    "name": "Taski",
+    "slug": "taski",
+    "category": "Cleaning Chemicals",
+    "description": "Disinfectant floor cleaner concentrate that sanitises and shines with a long-lasting fragrance.",
+    "industries": ["Hospitals", "Corporate Offices", "Schools & Colleges"],
+    "image": "/Cleaning/Taski.jpg",
+    "featured": true
+  },
+  {
+    "id": "Floor Cleaner",
+    "name": "Floor Cleaner",
+    "slug": "floor-cleaner",
+    "category": "Cleaning Chemicals",
+    "description": "Effective floor cleaner for maintaining clean and hygienic surfaces.",
+    "industries": ["Corporate Offices", "Hotels", "Banks"],
+    "image": "/Cleaning/Floor.jpg"
+  },
+  {
+    "id": "Toilet Cleaner",
+    "name": "Toilet Cleaner",
+    "slug": "toilet cleaner",
+    "category": "Cleaning Chemicals",
+    "description": "Thick acidic cleaner that kills 99.9% of germs and removes tough stains and limescale.",
+    "industries": ["Hospitals", "Malls", "Schools & Colleges"],
+    "image": "/Cleaning/Toilet.jpg"
+  },
+  {
+    "id": "Hand Wash",
+    "name": "Hand Wash",
+    "slug": "hand-wash",
+    "category": "Cleaning Chemicals",
+    "description": "Gentle yet effective hand wash for daily hygiene.",
+    "industries": ["Hospitals", "Schools & Colleges", "Corporate Offices"],
+    "image": "/Cleaning/Handf.jpg"
+  },
+
+   {
+    "id": "Glass Cleaner",
+    "name": "Glass Cleaner",
+    "slug": "glass-cleaner",
+    "category": "Cleaning Chemicals",
+    "description": "Streak-free formula for glass, mirrors and shiny surfaces with a crystal-clear finish.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/Cleaning/glass.jpg"
+  },
+
+   {
+    "id": "Sanitizer",
+    "name": "Sanitizer",
+    "slug": "sanitizer",
+    "category": "Cleaning Chemicals",
+    "description": "Effective sanitizer for maintaining clean and hygienic surfaces.",
+    "industries": ["Hospitals", "Schools & Colleges", "Corporate Offices"],
+    "image": "/Cleaning/san.jpg"
+  },
+
+   {
+    "id": "Degreaser",
+    "name": "Degreaser",
+    "slug": "degreaser",
+    "category": "Cleaning Chemicals",
+    "description": "Powerful degreaser for removing tough grease and oil stains.",
+    "industries": ["Restaurants", "Factories", "Garages"],
+    "image": "/Cleaning/DeGreaser.jpg"
+  },
+
+   {
+    "id": "Air Freshener",
+    "name": "Air Freshener",
+    "slug": "air-freshener",
+    "category": "Cleaning Chemicals",
+    "description": "Long-lasting air freshener for maintaining a pleasant indoor environment.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/Cleaning/Air.jpg"
+  },
+
+   {
+    "id": "Kitchen Cleaner",
+    "name": "Kitchen Cleaner",
+    "slug": "kitchen-cleaner",
+    "category": "Cleaning Chemicals",
+    "description": "Specialized cleaner for kitchen surfaces and appliances.",
+    "industries": ["Restaurants", "Homes", "Cafes"],
+    "image": "/Cleaning/Kitchen.jpg"
+  },
+
+   {
+    "id": "Drain Cleaner",
+    "name": "Drain Cleaner",
+    "slug": "drain-cleaner",
+    "category": "Cleaning Chemicals",
+    "description": "Specialized cleaner for removing clogs and buildup in drains.",
+    "industries": ["Restaurants", "Homes", "Cafes"],
+    "image": "/Cleaning/Drain.webp"
+  },
+ {
+    "id": "Dish Wash Liquid",
+    "name": "Dish Wash Liquid",
+    "slug": "dish-wash-liquid",
+    "category": "Cleaning Chemicals",
+    "description": "Powerful dish soap for effective cleaning of dishes and utensils.",
+    "industries": ["Homes", "Restaurants", "Cafes"],
+    "image": "/Cleaning/Dish Wash.webp"
+  },
+
+ {
+    "id": "Furniture Polish",
+    "name": "Furniture Polish",
+    "slug": "furniture-polish",
+    "category": "Cleaning Chemicals",
+    "description": "Specialized polish for maintaining the shine and condition of furniture surfaces.",
+    "industries": ["Homes", "Corporate Offices", "Hotels"],
+    "image": "/Cleaning/Furniture.webp"
+  },
+ {
+    "id": "Laundry Paper",
+    "name": "Laundry Paper",
+    "slug": "laundry-paper",
+    "category": "Cleaning Chemicals",
+    "description": "High-quality paper towels for efficient hand drying in busy washrooms.",
+    "industries": ["Corporate Offices", "Hospitals", "Hotels"],
+    "image": "/Cleaning/LAundry.webp"
+  },
+ {
+    "id": "Room Spray",
+    "name": "Room Spray",
+    "slug": "room-spray",
+    "category": "Cleaning Chemicals",
+    "description": "Fragrant room spray for maintaining a pleasant indoor environment.",
+    "industries": ["Homes", "Corporate Offices", "Hotels"],
+    "image": "/Cleaning/Room.jpg"
+  },
+ 
+   
+  {
+    "id": "m-fold-tissue",
+    "name": "M Fold Tissue ",
+    "slug": "m-fold-tissue",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "Soft, absorbent multifold towels for hygienic hand drying in busy washrooms.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/products/MFoldT.jpg"
+  },
+  {
+    "id": "Face-tissue-roll",
+    "name": "Face Tissue Roll",
+    "slug": "face-tissue-roll",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "Premium 2-ply toilet tissue that is soft, strong and gentle for everyday comfort.",
+    "industries": ["Hotels", "Corporate Offices", "Banquet Halls"],
+    "image": "/products/FaceTissue.jpg",
+    "featured": true
+  },
+  {
+    "id": "Toilet Roll Tissue",
+    "name": "Toilet Roll Tissue",
+    "slug": "toilet-roll-tissue",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "High-capacity jumbo rolls that reduce refills and maintenance in high-traffic washrooms.",
+    "industries": ["Malls", "Factories", "Schools & Colleges"],
+    "image": "/products/ToiletRoll.jpg"
+  },
+  {
+    "id": "HRT Roll",
+    "name": "HRT Roll",
+    "slug": "hrt-roll",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "High-quality paper towels for efficient hand drying in busy washrooms.",
+    "industries": ["Corporate Offices", "Hospitals", "Hotels"],
+    "image": "/products/hrt-tissue-roll.jpg"
+  },
+
+  {
+    "id": "L Fold-Tissue",
+    "name": "L Fold Tissue",
+    "slug": "l fold-tissue",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "Soft, absorbent multifold towels for hygienic hand drying in busy washrooms.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/products/LFold.jpg"
+  },
+
+  
+  {
+    "id": "M Fold-Dispenser",
+    "name": "M Fold Dispenser",
+    "slug": "m fold-dispenser",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "Soft, absorbent multifold towels for hygienic hand drying in busy washrooms.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/products/MFoldDis.jpg"
+  },
+
+  {
+    "id": "Circular-Dispenser",
+    "name": "Circular Dispenser",
+    "slug": "circular-dispenser",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "Soft, absorbent multifold towels for hygienic hand drying in busy washrooms.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/products/circular-dispenser.jpg"
+  },
+  
+  {
+    "id": "HRT-Autocut-Dispenser",
+    "name": "HRT Autocut Dispenser",
+    "slug": "hrt-autocut-dispenser",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "Soft, absorbent multifold towels for hygienic hand drying in busy washrooms.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/products/hrt_Autocut.jpg"
+  },
+
+  {
+    "id": "Face-Tissue-Dispenser",
+    "name": "Face Tissue Dispenser",
+    "slug": "face-tissue-dispenser",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "Soft, absorbent multifold towels for hygienic hand drying in busy washrooms.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/products/face-tissue-refill.jpg"
+  },
+
+  {
+    "id": "Kitchen-roll-dispenser",
+    "name": "Kitchen Roll Dispenser",
+    "slug": "kitchen-roll-dispenser",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "Soft, absorbent multifold towels for hygienic hand drying in Kitchens.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/products/Kitchen-roll-dispenser.jpg"
+  },
+
+  {
+    "id": "Center-Pull-Dispenser",
+    "name": "Center Pull Dispenser",
+    "slug": "center-pull-dispenser",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "Soft, absorbent multifold towels for hygienic hand drying in busy washrooms.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/products/center-pull-dispenser.jpg"
+  },
+
+
+    
+
+  {
+    "id": "Mat",
+    "name": "Mat",
+    "slug": "mat",
+    "category": "Washroom Hygiene",
+    "description": "Durable Anti Skid Mat for maintaining cleanliness and safety in washrooms.",
+    "industries": ["Hospitals", "Corporate Offices", "Malls"],
+    "image": "/Washroom/Mat.jpg",
+    "featured": true
+  },
+  {
+    "id": "Jet Hand Dryer",
+    "name": "Jet Hand Dryer",
+    "slug": "jet-hand-dryer",
+    "category": "Washroom Hygiene",
+    "description": "High-performance hand dryer for quick and efficient drying in busy washrooms.",
+    "industries": ["Hotels", "Corporate Offices", "Banquet Halls"],
+    "image": "/Washroom/handdry.webp"
+  },
+  {
+    "id": "ABS Hand Dryer",
+    "name": "ABS Hand Dryer",
+    "slug": "abs-hand-dryer",
+    "category": "Washroom Hygiene",
+    "description": "Durable ABS hand dryer for high-performance drying in busy washrooms.",
+    "industries": ["Hotels", "Corporate Offices", "Banquet Halls"],
+    "image": "/Washroom/ABS.webp"
+  },
+  {
+    "id": "Soap Dispenser",
+    "name": "Soap Dispenser",
+    "slug": "soap-dispenser",
+    "category": "Washroom Hygiene",
+    "description": "Durable wall-mounted dispenser for liquid soap and sanitiser with controlled dosage.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/Washroom/soap.webp"
+  },
+  {
+    "id": "Stainless-Steel Soap Dispenser",
+    "name": "Stainless-Steel Soap Dispenser",
+    "slug": "stainless-steel-soap-dispenser",
+    "category": "Washroom Hygiene",
+    "description": "Durable stainless-steel dispenser for liquid soap and sanitiser with controlled dosage.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/Washroom/SSSoap.webp"
+  },
+
+  {
+    "id": "Automatic Soap Dispenser",
+    "name": "Automatic Soap Dispenser",
+    "slug": "automatic-soap-dispenser",
+    "category": "Washroom Hygiene",
+    "description": "Automated dispenser for liquid soap and sanitiser with controlled dosage.",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/Washroom/a.webp"
+  },
+
+  {
+    "id": "Room Freshener",
+    "name": "Room Freshener",
+    "slug": "room-freshener",
+    "category": "Washroom Hygiene",
+    "description": "Fragranced room freshener that controls odour and prevents splash-back and clogging.",
+    "industries": ["Malls", "Factories", "Corporate Offices"],
+    "image": "/Washroom/images.jpg"
+  },
+
+  {
+    "id": "AER Pocket And Gel",
+    "name": "AER Pocket And Gel",
+    "slug": "aer-pocket-and-gel",
+    "category": "Washroom Hygiene",
+    "description": "Pocket-sized air freshener and gel that controls odour and prevents splash-back and clogging.",
+    "industries": ["Schools & Colleges", "Corporate Offices", "Hospitals"],
+    "image": "/Washroom/aerpocket.jpg"
+  },
+
+  
+  {
+    "id": "Diffuserser OIL",
+    "name": "Diffuserser OIL",
+    "slug": "diffuserser-oil",
+    "category": "Washroom Hygiene",
+    "description": "Stylish diffuser for maintaining a pleasant indoor environment in washrooms.",
+    "industries": ["Schools & Colleges", "Corporate Offices", "Hospitals"],
+    "image": "/Washroom/OIl.webp"
+  },
+
+
+  
+  {
+    "id": "Automatic Room Freshener(LED)",
+    "name": "Automatic Room Freshener(LED)",
+    "slug": "automatic-room-freshener-led",
+    "category": "Washroom Hygiene",
+    "description": "Automated room freshener with LED lighting for maintaining a pleasant indoor environment in washrooms.",
+    "industries": ["Schools & Colleges", "Corporate Offices", "Hospitals"],
+    "image": "/Washroom/AIRFreshener.jpg"
+  },
+
+  {
+    "id": "Automatic Room Freshener(LCD)",
+    "name": "Automatic Room Freshener(LCD)",
+    "slug": "automatic-room-freshener-lcd",
+    "category": "Washroom Hygiene",
+    "description": "Automated room freshener with LCD display for maintaining a pleasant indoor environment in washrooms.",
+    "industries": ["Schools & Colleges", "Corporate Offices", "Hospitals"],
+    "image": "/Washroom/ld.jpg"
+  },
+  {
+    "id": "AIR Revitizer",
+    "name": "AIR Revitizer",
+    "slug": "air-revitizer",
+    "category": "Washroom Hygiene",
+    "description": "Advanced room freshener with revitalizing technology for maintaining a pleasant indoor environment in washrooms.",
+    "industries": ["Schools & Colleges", "Corporate Offices", "Hospitals"],
+    "image": "/Washroom/Revistisor.jpg"
+  },
+
+  {
+    "id": "Toilet Blocks",
+    "name": "Toilet Blocks",
+    "slug": "Toilet Blocks",
+    "category": "Washroom Hygiene",
+    "description": "Long-lasting toilet blocks that provide a fresh fragrance and help maintain cleanliness in washrooms.",
+    "industries": ["Schools & Colleges", "Corporate Offices", "Hospitals"],
+    "image": "/Washroom/ToiletBlks.jpg"
+  },
+
+  {
+    "id": "Swingbin",
+    "name": "Swingbin",
+    "slug": "swingbin",
+    "category": "Waste Management",
+    "description": "Colour-coded bins supporting effective segregation and clean waste management.",
+    "industries": ["Hospitals", "Corporate Offices", "Factories"],
+    "image": "/Waste/Swing Bin.png",
+    "featured": true
+  },
+  {
+    "id": "Perforatedbin",
+    "name": "Perforated Bin",
+    "slug": "perforated-bin",
+    "category": "Waste Management",
+    "description": "Durable perforated bin for efficient waste collection and management.",
+    "industries": ["Factories", "Corporate Offices", "Hospitals"],
+    "image": "/Waste/Perforated Bin.webp"
+  },
+  {
+    "id": "Paddlebin",
+    "name": "Paddle Bin",
+    "slug": "paddle-bin",
+    "category": "Waste Management",
+    "description": "Strong, leak-resistant bin liners available in multiple sizes and colours.",
+    "industries": ["Malls", "Corporate Offices", "Factories"],
+    "image": "/Waste/Paddle Bin.webp"
+  },
+  {
+    "id": "Planterbin",
+    "name": "Planter Bin",
+    "slug": "planter-bin",
+    "category": "Waste Management",
+    "description": "Stylish planter-style bin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Planters Plain Bin.png"
+  },
+
+  {
+    "id": "Ash & Trashbin",
+    "name": "Ash & Trash Bin",
+    "slug": "ash-trash-bin",
+    "category": "Waste Management",
+    "description": "Stylish ash and trash bin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Ash & Trash Bin.png"
+  },
+
+  {
+    "id": "Pushbin",
+    "name": "Push Bin",
+    "slug": "push-bin",
+    "category": "Waste Management",
+    "description": "Stylish push-style bin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Push Bin.webp"
+  },
+
+  {
+    "id": "Black Dustbin",
+    "name": "Black Dustbin",
+    "slug": "black-dustbin",
+    "category": "Waste Management",
+    "description": "Stylish black dustbin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Black Dustbin.webp"
+  },
+
+  {
+    "id": "Steel Leather Bin",
+    "name": "Steel Leather Bin",
+    "slug": "steel-leather-bin",
+    "category": "Waste Management",
+    "description": "Stylish steel leather-style bin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Steel Leather DustBin.png"
+  },
+  {
+    "id": "Duo Swing Bin",
+    "name": "Duo Swing Bin",
+    "slug": "duo-swing-bin",
+    "category": "Waste Management",
+    "description": "Stylish duo swing-style bin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Duo Swing Bin.webp"
+  },
+
+  {
+    "id": "Trio Bin",
+    "name": "Trio Bin",
+    "slug": "trio-bin",
+    "category": "Waste Management",
+    "description": "Stylish trio bin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Trio Bin.webp"
+  },
+
+  {
+    "id": "Cylindrical open Bin",
+    "name": "Cylindrical Open Bin",
+    "slug": "cylindrical-open-bin",
+    "category": "Waste Management",
+    "description": "Stylish cylindrical open bin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Cylinder.jpg"
+  },
+
+  {
+    "id": "Cane Dustbin",
+    "name": "Cane Dustbin",
+    "slug": "cane-dustbin",
+    "category": "Waste Management",
+    "description": "Stylish cane-style dustbin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/cane.jpg"
+  },
+
+  {
+    "id": "Twin Pedal Bin",
+    "name": "Twin Pedal Bin",
+    "slug": "twin-pedal-bin",
+    "category": "Waste Management",
+    "description": "Stylish twin pedal bin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/twin.jpg"
+  },
+
+  {
+    "id": "Pedal Bin",
+    "name": "Pedal Bin",
+    "slug": "pedal-bin",
+    "category": "Waste Management",
+    "description": "Stylish pedal bin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Paddle Bin.webp"
+  },
+
+  {
+    "id": "Wheel Bin With Pedal",
+    "name": "Wheel Bin With Pedal",
+    "slug": "wheel-bin-with-pedal",
+    "category": "Waste Management",
+    "description": "Stylish wheel bin with pedal for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/wheel.jpg"
+  },
+
+  {
+    "id": "Dome Waste Bin",
+    "name": "Dome Waste Bin",
+    "slug": "dome-waste-bin",
+    "category": "Waste Management",
+    "description": "Stylish dome-shaped waste bin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/dome.jpg"
+  },
+
+  {
+    "id": "Dome Bin With Stand",
+    "name": "Dome Bin With Stand",
+    "slug": "dome-bin-with-stand",
+    "category": "Waste Management",
+    "description": "Stylish dome-shaped waste bin with a stand for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/domewith stand.jpg"
+  },
+
+  {
+    "id": "Wheel Bin",
+    "name": "Wheel Bin",
+    "slug": "wheel-bin",
+    "category": "Waste Management",
+    "description": "Stylish wheel bin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Whl.jpg"
+  },
+
+{
+    "id": "Nilkamal Grey Pedal Bin",
+    "name": "Nilkamal Grey Pedal Bin",
+    "slug": "nilkamal-grey-pedal-bin",
+    "category": "Waste Management",
+    "description": "Stylish nilkamal grey pedal bin for modern waste management in public spaces.",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/grey.jpg"
+  },
+
+  
+
+  {
+    "id": "auto-air-freshener-dispenser",
+    "name": "Automatic Air Freshener Dispenser",
+    "slug": "auto-air-freshener-dispenser",
+    "category": "Air Care Solutions",
+    "description": "Programmable dispenser that releases timed bursts of fragrance for fresh interiors.",
+    "industries": ["Corporate Offices", "Hotels", "Banks"],
+    "image": "/products/auto-air-freshener-dispenser.svg",
+    "featured": true
+  },
+  {
+    "id": "air-freshener-refill",
+    "name": "Air Freshener Refill",
+    "slug": "air-freshener-refill",
+    "category": "Air Care Solutions",
+    "description": "Long-lasting fragrance refills compatible with standard automatic dispensers.",
+    "industries": ["Hotels", "Corporate Offices", "Malls"],
+    "image": "/products/air-freshener-refill.svg"
+  },
+  {
+    "id": "gel-air-freshener",
+    "name": "Gel Air Freshener",
+    "slug": "gel-air-freshener",
+    "category": "Air Care Solutions",
+    "description": "Slow-release gel freshener that neutralises odours and keeps spaces welcoming.",
+    "industries": ["Banquet Halls", "Residential Complexes", "Hotels"],
+    "image": "/products/gel-air-freshener.svg"
+  },
+  {
+    "id": "room-freshener-spray",
+    "name": "Room Freshener Spray",
+    "slug": "room-freshener-spray",
+    "category": "Air Care Solutions",
+    "description": "Premium room spray with rich, long-lasting fragrances for an instant fresh feel.",
+    "industries": ["Hotels", "Corporate Offices", "Banquet Halls"],
+    "image": "/products/room-freshener-spray.svg"
+  },
+
+  {
+    "id": "Apron PVC",
+    "name": "Apron PVC",
+    "slug": "apron-pvc",
+    "category": "Safety & PPE",
+    "description": "Durable PVC apron for protection during cleaning and maintenance tasks.",
+    "industries": ["Hospitals", "Factories", "Hotels"],
+    "image": "/Safety/Apron.jpg",
+    "featured": true
+  },
+  {
+    "id": "Apron Polyester",
+    "name": "Apron Polyester",
+    "slug": "apron-polyester",
+    "category": "Safety & PPE",
+    "description": "Durable polyester apron for protection during cleaning and maintenance tasks.",
+    "industries": ["Hospitals", "Factories", "Hotels"],
+    "image": "/Safety/apronpoly.jpg",
+    "featured": true
+  },
+
+  {
+    "id": "Nitrile Gloves",
+    "name": "Nitrile Gloves",
+    "slug": "nitrile-gloves",
+    "category": "Safety & PPE",
+    "description": "Powder-free nitrile gloves offering reliable protection and a comfortable grip.",
+    "industries": ["Hospitals", "Factories", "Corporate Offices"],
+    "image": "/Safety/nitril.jpg"
+  },
+  {
+    "id": "Poly Gloves",
+    "name": "Poly Gloves",
+    "slug": "poly-gloves",
+    "category": "Safety & PPE",
+    "description": "Durable poly gloves for general-purpose protection.",
+    "industries": ["Hospitals", "Factories", "Corporate Offices"],
+    "image": "/Safety/polygloves.jpg"
+  },
+
+  {
+    "id": "Bouffant Cap",
+    "name": "Bouffant Cap",
+    "slug": "bouffant-cap",
+    "category": "Safety & PPE",
+    "description": "Comfortable and durable cap for protection during cleaning and maintenance tasks.",
+    "industries": ["Hospitals", "Factories", "Hotels"],
+    "image": "/Safety/cap.jpg"
+  },
+  {
+    "id": "Safety Shoes",
+    "name": "Safety Shoes",
+    "slug": "safety-shoes",
+    "category": "Safety & PPE",
+    "description": "Non-slip safety shoes providing superior traction and foot protection.",
+    "industries": ["Factories", "Hospitals", "Hotels"],
+    "image": "/Safety/safety.jpg"
+  },
+    
+  {
+    "id": "OverCoat Uniform",
+    "name": "OverCoat Uniform",
+    "slug": "overcoat-uniform",
+    "category": "Safety & PPE",
+    "description": "Durable overcoat uniform for protection during cleaning and maintenance tasks.",
+    "industries": ["Hospitals", "Factories", "Hotels"],
+    "image": "/Safety/overcoat.jpg"
+  },
+
+  {
+    "id": "Reflective Vest",
+    "name": "Reflective Vest",
+    "slug": "reflective-vest",
+    "category": "Safety & PPE",
+    "description": "High-visibility vest for enhanced visibility in low-light conditions.",
+    "industries": ["Factories", "Hospitals", "Residential Complexes"],
+    "image": "/Safety/vest.jpg"
+  },
+
+  
+  {
+    "id": "Safety Cone And Chain",
+    "name": "Safety Cone And Chain",
+    "slug": "safety-cone-and-chain",
+    "category": "Safety & PPE",
+    "description": "High-visibility cone and chain set for enhanced visibility in low-light conditions.",
+    "industries": ["Factories", "Hospitals", "Residential Complexes"],
+    "image": "/Safety/cone.jpg"
+  },
+
+  
+  {
+    "id": "Rubber Corner Guard",
+    "name": "Rubber Corner Guard",
+    "slug": "rubber-corner-guard",
+    "category": "Safety & PPE",
+    "description": "Durable rubber corner guard for protection during cleaning and maintenance tasks.",
+    "industries": ["Hospitals", "Factories", "Hotels"],
+    "image": "/Safety/Rubber.jpg"
+  },
+
+
+  {
+    "id": "Eye Protective Glasses",
+    "name": "Eye Protective Glasses",
+    "slug": "eye-protective-glasses",
+    "category": "Safety & PPE",
+    "description": "Durable eye protective glasses for general-purpose protection.",
+    "industries": ["Hospitals", "Factories", "Corporate Offices"],
+    "image": "/Safety/eye.jpg"
+  },
+
+  {
+    "id": "Face Mask",
+    "name": "Face Mask",
+    "slug": "face-mask",
+    "category": "Safety & PPE",
+    "description": "Reusable face mask for protection against airborne particles.",
+    "industries": ["Hospitals", "Factories", "Residential Complexes"],
+    "image": "/Safety/face.jpg"
+  },
+
+  
+  {
+    "id": "First Aid Kit",
+    "name": "First Aid Kit",
+    "slug": "first-aid-kit",
+    "category": "Safety & PPE",
+    "description": "Comprehensive first aid kit for emergency medical situations.",
+    "industries": ["Hospitals", "Factories", "Residential Complexes"],
+    "image": "/Safety/firstaid.jpg"
+  },
+
+  {
+    "id": "Laundry Bag",
+    "name": "Laundry Bag",
+    "slug": "laundry-bag",
+    "category": "Hotel Amenities",
+    "description": "Durable laundry bag for guests to carry their dirty clothes during their stay.",
+    "industries": ["Hotels", "Banquet Halls", "Residential Complexes"],
+    "image": "/Hotel/Laundry.webp",
+    "featured": true
+  },
+  {
+    "id": "Sanitary Bag",
+    "name": "Sanitary Bag",
+    "slug": "sanitary-bag",
+    "category": "Hotel Amenities",
+    "description": "Complete guest convenience kit with Sanitary essentials, neatly packaged.",
+    "industries": ["Hotels", "Banquet Halls"],
+    "image": "/Hotel/Sanitary.webp"
+  },
+  {
+    "id": "Vanity Kit",
+    "name": "Vanity Kit",
+    "slug": "vanity-kit",
+    "category": "Hotel Amenities",
+    "description": "Complete guest convenience kit with vanity essentials, neatly packaged.",
+    "industries": ["Hotels", "Banquet Halls"],
+    "image": "/Hotel/vanity.webp"
+  },
+  {
+    "id": "Shaving Kit",
+    "name": "Shaving Kit",
+    "slug": "shaving-kit",
+    "category": "Hotel Amenities",
+    "description": "Complete guest convenience kit with shaving essentials, neatly packaged.",
+    "industries": ["Hotels", "Banquet Halls"],
+    "image": "/Hotel/shaving.webp"
+  },
+
+  {
+    "id": "Dental Kit",
+    "name": "Dental Kit",
+    "slug": "dental-kit",
+    "category": "Hotel Amenities",
+    "description": "Complete guest convenience kit with dental essentials, neatly packaged.",
+    "industries": ["Hotels", "Banquet Halls"],
+    "image": "/Hotel/dental-kit.webp"
+  },
+  {
+    "id": "Hair Conditioner",
+    "name": "Hair Conditioner",
+    "slug": "hair-conditioner",
+    "category": "Hotel Amenities",
+    "description": "Moisturizing hair conditioner for soft, manageable hair.",
+    "industries": ["Hotels", "Banquet Halls"],
+    "image": "/Hotel/hair.webp"
+  },
+
+  {
+    "id": "Comb",
+    "name": "Comb",
+    "slug": "comb",
+    "category": "Hotel Amenities",
+    "description": "Durable comb for guests to maintain their hair style during their stay.",
+    "industries": ["Hotels", "Banquet Halls"],
+    "image": "/Hotel/Comb.webp"
+  }
+  
+]

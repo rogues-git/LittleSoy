@@ -1,0 +1,68 @@
+[
+  {
+    "id": "t1",
+    "name": "Dr. Anjali Mehta",
+    "role": "Facility Director",
+    "company": "Sunrise Multispeciality Hospital",
+    "industry": "Hospitals",
+    "quote": "Little Soe's hospital-grade disinfectants and microfiber systems have raised our infection-control standards. Reliable supply, every single time.",
+    "rating": 5,
+    "image": "/testimonials/review-1.svg",
+    "span": "tall"
+  },
+  {
+    "id": "t2",
+    "name": "Rahul Verma",
+    "role": "Admin Head",
+    "company": "Nexus Corporate Park",
+    "industry": "Corporate Offices",
+    "quote": "Our offices have never looked cleaner. Consistent quality, competitive pricing and a team that genuinely supports bulk requirements.",
+    "rating": 5,
+    "image": "/testimonials/review-2.svg",
+    "span": "normal"
+  },
+  {
+    "id": "t3",
+    "name": "Sister Maria Joseph",
+    "role": "Campus Administrator",
+    "company": "St. Xavier's College",
+    "industry": "Schools & Colleges",
+    "quote": "Safe, effective and affordable cleaning supplies for our entire campus. Deliveries are always on schedule.",
+    "rating": 5,
+    "image": "/testimonials/review-3.svg",
+    "span": "wide"
+  },
+  {
+    "id": "t4",
+    "name": "Imran Khan",
+    "role": "Executive Housekeeper",
+    "company": "The Grand Banyan Hotel",
+    "industry": "Hotels",
+    "quote": "Premium products that match our hospitality standards. Guests notice the difference, and so do our audit scores.",
+    "rating": 5,
+    "image": "/testimonials/review-4.svg",
+    "span": "normal"
+  },
+  {
+    "id": "t5",
+    "name": "Priya Nair",
+    "role": "Operations Manager",
+    "company": "Celebration Banquets",
+    "industry": "Banquet Halls",
+    "quote": "Spotless, guest-ready venues after every event. Their fast delivery has saved us more than once.",
+    "rating": 5,
+    "image": "/testimonials/review-5.svg",
+    "span": "tall"
+  },
+  {
+    "id": "t6",
+    "name": "Suresh Iyer",
+    "role": "Plant Maintenance Lead",
+    "company": "Vortex Industries Ltd.",
+    "industry": "Industrial Facilities",
+    "quote": "Heavy-duty cleaning solutions that hold up to demanding industrial conditions. A dependable long-term partner.",
+    "rating": 5,
+    "image": "/testimonials/review-6.svg",
+    "span": "normal"
+  }
+]

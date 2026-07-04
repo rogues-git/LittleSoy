@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" width="520" height="320" fill="none">
+  <rect width="520" height="320" rx="20" fill="#ffffff"/>
+  <rect width="520" height="320" rx="20" fill="none" stroke="#E4D1AE" stroke-width="1.5"/>
+  <rect x="0" y="0" width="520" height="96" rx="20" fill="#014D40"/>
+  <rect x="0" y="60" width="520" height="36" fill="#014D40"/>
+  <circle cx="56" cy="48" r="28" fill="#C5A06A"/>
+  <text x="56" y="56" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#012620" text-anchor="middle">SM</text>
+  <text x="100" y="42" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#ffffff">Sister Maria Joseph</text>
+  <text x="100" y="68" font-family="Arial, sans-serif" font-size="15" fill="#E4D1AE">St. Xavier's College</text>
+  <text x="40" y="150" font-family="Arial, sans-serif" font-size="26" fill="#C5A06A">★★★★★</text>
+  <text x="40" y="200" font-family="Arial, sans-serif" font-size="21" fill="#333333">Safe, effective and affordable</text><text x="40" y="234" font-family="Arial, sans-serif" font-size="21" fill="#333333">supplies for our entire campus.</text><text x="40" y="268" font-family="Arial, sans-serif" font-size="21" fill="#333333">Always on schedule.</text>
+  <text x="40" y="284" font-family="Arial, sans-serif" font-size="14" fill="#999999">Verified client review</text>
+</svg>

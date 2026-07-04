@@ -1,0 +1,12 @@
+[
+  { "name": "MediCare Hospitals", "logo": "/clients/client-1.svg" },
+  { "name": "Nexus Corporate", "logo": "/clients/client-2.svg" },
+  { "name": "Xavier Education", "logo": "/clients/client-3.svg" },
+  { "name": "Grand Banyan Hotels", "logo": "/clients/client-4.svg" },
+  { "name": "Celebration Banquets", "logo": "/clients/client-5.svg" },
+  { "name": "Vortex Industries", "logo": "/clients/client-6.svg" },
+  { "name": "Apex Towers", "logo": "/clients/client-7.svg" },
+  { "name": "Greenfield Schools", "logo": "/clients/client-8.svg" },
+  { "name": "Summit Healthcare", "logo": "/clients/client-9.svg" },
+  { "name": "Pinnacle Offices", "logo": "/clients/client-10.svg" }
+]

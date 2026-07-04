@@ -1,0 +1,66 @@
+[
+  
+  {
+    "id": "corporate-offices",
+    "title": "Corporate Offices",
+    "slug": "corporate-offices",
+    "description": "Create clean, healthy and productive workspaces that reflect your brand's professionalism.",
+    "image": "/industries/Corporate.jpg"
+  },
+  {
+    "id": "schools-colleges",
+    "title": "Schools & Colleges",
+    "slug": "schools-colleges",
+    "description": "Promote safe and hygienic learning environments for students, staff and faculty.",
+    "image": "/industries/school.jpg"
+  },
+  {
+    "id": "banquet-halls",
+    "title": "Banquet Halls",
+    "slug": "banquet-halls",
+    "description": "Keep event venues spotless and guest-ready before, during and after every occasion.",
+    "image": "/industries/banquets.jpg"
+  },
+  {
+    "id": "hotels",
+    "title": "Hotels",
+    "slug": "hotels",
+    "description": "Support hospitality excellence with premium cleaning products guests can feel.",
+    "image": "/industries/hotel.jpg"
+  },
+  {
+    "id": "residential-complexes",
+    "title": "Residential Complexes",
+    "slug": "residential-complexes",
+    "description": "Enhance community living with effective cleaning solutions for shared spaces.",
+    "image": "/industries/residential.jpg"
+  },
+  {
+    "id": "Factories",
+    "title": "Factories",
+    "slug": "industrial-facilities",
+    "description": "Ensure safe and efficient operations with heavy-duty cleaning products for industrial settings.",
+    "image": "/industries/factories.jpg"
+  },
+  {
+    "id": "malls",
+    "title": "Malls",
+    "slug": "malls",
+    "description": "Maintain a clean and inviting shopping environment for customers and retailers.",
+    "image": "/industries/mall.jpg"
+  },
+  {
+    "id": "hospitals",
+    "title": "Hospitals",
+    "slug": "hospitals",
+    "description": "Maintain high hygiene standards and infection control through professional cleaning solutions.",
+    "image": "/industries/hospital.jpg"
+  },
+  {
+    "id": "Banks",
+    "title": "Banks",
+    "slug": "banks",
+    "description": "Create a pristine and professional atmosphere for customers and employees.",
+    "image": "/industries/Bank.jpg"
+  }
+]

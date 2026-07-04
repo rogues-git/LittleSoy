@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 110" width="280" height="110" fill="none">
+  <rect width="280" height="110" rx="14" fill="#ffffff"/>
+  <circle cx="55" cy="55" r="28" fill="#014D40"/>
+  <text x="55" y="64" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">P</text>
+  <text x="98" y="50" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#014D40">Pinnacle</text>
+  <rect x="98" y="62" width="72" height="6" rx="3" fill="#C5A06A"/>
+</svg>
