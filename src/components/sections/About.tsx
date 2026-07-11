@@ -27,7 +27,7 @@ export function About() {
         >
           <div className="relative overflow-hidden rounded-3xl shadow-premium">
             <Image
-              src="/aboutlogo.jpg"
+              src="/second.jpg"
               alt="Little Soe Revolution Product housekeeping solutions"
               width={800}
               height={640}
@@ -53,7 +53,8 @@ export function About() {
             reliability, stronger relationships and a commitment to excellence
             that goes beyond a transaction? That idea became{" "}
             <span className="font-semibold text-emerald">
-              Little Soe Revolution Product
+              <span className="font-royal-hefana">Little Soe</span> Revolution
+              Product
             </span>
             .
           </p>
@@ -78,7 +79,9 @@ export function About() {
           </ul>
 
           <p className="mt-7 rounded-2xl border-l-4 border-gold bg-section-gray px-5 py-4 text-base font-medium italic leading-relaxed text-emerald">
-            Welcome to the Little Soe Family — where every partnership is valued,
+            Welcome to the{" "}
+            <span className="font-royal-hefana not-italic">Little Soe</span> Family
+            — where every partnership is valued,
             every relationship matters, and every step forward is a journey we
             take together.
           </p>

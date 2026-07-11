@@ -12,10 +12,18 @@ import type {
 
 const ALL_PRODUCTS: Product[] = productsData as Product[];
 
-// Remove Air Care Solutions completely
-export const products: Product[] = ALL_PRODUCTS.filter(
-  (p) => p.category !== "Air Care Solutions"
-);
+/** Combined category name for the merged Washroom + Waste products. */
+const COMBINED_WASHROOM_WASTE = "Washroom & Waste Management";
+
+export const products: Product[] = ALL_PRODUCTS
+  // Remove Air Care Solutions completely
+  .filter((p) => p.category !== "Air Care Solutions")
+  // Combine Washroom Hygiene and Waste Management into one category
+  .map((p) =>
+    p.category === "Washroom Hygiene" || p.category === "Waste Management"
+      ? { ...p, category: COMBINED_WASHROOM_WASTE }
+      : p
+  );
 export const testimonials: Testimonial[] = testimonialsData as Testimonial[];
 export const industries: Industry[] = industriesData as Industry[];
 export const clients: Client[] = clientsData as Client[];
@@ -27,9 +35,7 @@ export const CATEGORY_ORDER = [
   "Housekeeping Trolleys",
   "Cleaning Chemicals",
   "Tissue & Dispenser Solutions",
-  "Washroom Hygiene",
-  "Waste Management",
-  "Air Care Solutions",
+  COMBINED_WASHROOM_WASTE,
   "Safety & PPE",
   "Hotel Amenities",
 ] as const;

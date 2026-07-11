@@ -113,8 +113,9 @@ export function Footer() {
       <div className="border-t border-white/10">
         <div className="container-px flex flex-col items-center justify-between gap-3 py-6 text-center text-xs text-white/60 sm:flex-row sm:text-left">
           <p>
-            Copyright © {new Date().getFullYear()} {siteConfig.name}. All rights
-            reserved.
+            Copyright © {new Date().getFullYear()}{" "}
+            <span className="font-royal-hefana">Little Soe</span> Revolution
+            Product. All rights reserved.
           </p>
           <p>Designed for cleaner, safer, more professional spaces.</p>
         </div>
