@@ -29,6 +29,8 @@
     
   },
 
+
+
   {
     "id": "Blower",
     "name": "Blower",
@@ -68,9 +70,104 @@
     "category": "Cleaning Machines",
     "description": "Manual sweeper for efficient cleaning of various surfaces.",
     "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Machine/Mini Scrub.jpg"
+  },
+
+  
+  {
+    "id": "Scooty Mopping Machine",
+    "name": "Scooty Mopping Machine",
+    "slug": "scooty mopping machine",
+    "category": "Cleaning Machines",
+    "description": "Scooty Mooping Machine for efficient cleaning of various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Machine/Scooty.jpg"
+  },
+
+  
+  {
+    "id": "Battery Operated Sweeper",
+    "name": "Battery Operated Sweeper",
+    "slug": "Battery Operated Sweeper",
+    "category": "Cleaning Machines",
+    "description": "Battery Operated  sweeper for efficient cleaning of various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Machine/Battery.jpg"
+  },
+
+  {
+    "id": "Escalator cleaner",
+    "name": "Escalator Cleaner",
+    "slug": "Escalator Cleaner",
+    "category": "Cleaning Machines",
+    "description": "Manual sweeper for efficient cleaning of various surfaces.",
+    "industries": ["Malls", "Hotels", "Corporate Offices"],
+    "image": "/Machine/Escalator.jpg"
+  },
+
+  
+  {
+    "id": "Steam Vacuum Cleaner",
+    "name": "Steam Vacuum Cleaner",
+    "slug": "steam vacuum cleaner",
+    "category": "Cleaning Machines",
+    "description": "Manual sweeper for efficient cleaning of various surfaces.",
+    "industries": ["Malls", "Hotels", "Corporate Offices"],
+    "image": "/Machine/steam.jpg"
+  },
+
+
+  {
+    "id": "Mini Scrubber Dryer",
+    "name": "Mini Scrubber Dryer",
+    "slug": "mini scrubber dryer",
+    "category": "Cleaning Machines",
+    "description": "Manual sweeper for efficient cleaning of various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
     "image": "/Machine/Sweeper.jpg"
   },
-  
+
+  {
+    "id": "Carpet Cleaner",
+    "name": "Carpet Cleaner",
+    "slug": "carpet cleaner ",
+    "category": "Cleaning Machines",
+    "description": "Manual sweeper for efficient cleaning of various surfaces.",
+    "industries": ["Restaurants", "Hotels", "Corporate Offices"],
+    "image": "/Machine/carpetcleaner.jpg"
+  },
+
+  {
+    "id": "Back Pack Vacuum Cleaner",
+    "name": "Back Pack Vacuum Cleaner",
+    "slug": "Back Pack Vacuum Cleaner",
+    "category": "Cleaning Machines",
+    "description": "Manual sweeper for efficient cleaning of various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Machine/BackPack.jpg"
+  },
+
+
+  {
+    "id": "High Speed Polisher",
+    "name": "High Speed Polisher",
+    "slug": "High Speed Polisher",
+    "category": "Cleaning Machines",
+    "description": "Manual sweeper for efficient cleaning of various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Machine/Polisher.jpg"
+  },
+
+  {
+    "id": "High Pressure Washer",
+    "name": "High Pressure Washer",
+    "slug": "High Pressure Washer",
+    "category": "Cleaning Machines",
+    "description": "Manual sweeper for efficient cleaning of various surfaces.",
+    "industries": ["Hospitals", "Hotels", "Corporate Offices"],
+    "image": "/Machine/M401.jpg"
+  },
+
     
   {
     "id": "Soft Broom",
@@ -373,6 +470,8 @@
     "industries": ["Residential Complexes", "Corporate Offices"],
     "image": "/Toools/Garden.jpg"
   },
+
+
     
   {
     "id": "Wringer Trolley",
@@ -433,6 +532,98 @@
     "image": "/Trolleys/Res.jpg"
   },
 
+  {
+    "id": "DustBin Trolley",
+    "name": "DustBin Trolley",
+    "slug": "DustBin Trolley",
+    "category": "Housekeeping Trolleys",
+    "description": "Durable trolley for carrying and transporting cleaning supplies and equipment.",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/Dustbin Trolley.jpg"
+  },
+
+
+  {
+    "id": "Pocket Bucket",
+    "name": "Pocket Bucket",
+    "slug": "Pocket Bucket",
+    "category": "Housekeeping Trolleys",
+    "description": "Pocket Bucket For Poratble And Easy To Use",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/Pocket.jpg"
+  },
+
+  {
+    "id": "Restaurant Trolley",
+    "name": "Restaurant Trolley",
+    "slug": "restaurant-trolley",
+    "category": "Housekeeping Trolleys",
+    "description": "Restaurant Trolley For Cleaning",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/Ress.jpg"
+  },
+{
+    "id": "Utility Cart",
+    "name": "Utility Cart",
+    "slug": "Utility Cart",
+    "category": "Housekeeping Trolleys",
+    "description": "Utility Cart For Poratble And Easy To Use",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/Utility.jpg"
+  },
+
+{
+    "id": "X Shaped Laundry Cart",
+    "name": "X Shaped Laundry Cart",
+    "slug": "X Shaped Laundry Cart",
+    "category": "Housekeeping Trolleys",
+    "description": "X Shaped Laundry Cart For Poratble And Easy To Use",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/X.jpg"
+  },
+
+{
+    "id": "Janitorial Cart",
+    "name": "Janitorial Cart",
+    "slug": "Janitorial Cart",
+    "category": "Housekeeping Trolleys",
+    "description": "Janitorial Cart For Poratble And Easy To Use",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/Janitorial.jpg"
+  },
+
+
+{
+    "id": "Mini Service Cart",
+    "name": "Mini Service Cart",
+    "slug": "Mini Service Cart",
+    "category": "Housekeeping Trolleys",
+    "description": "Mini Serice Cart For Poratble And Easy To Use",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/Mini.jpg"
+  },
+
+
+{
+    "id": "Lauggage Trolley",
+    "name": "Lauggage Trolley",
+    "slug": "Lauggage Trolley",
+    "category": "Housekeeping Trolleys",
+    "description": "Lauggage For Poratble And Easy To Use",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/Lauggage1.jpg"
+  },
+
+{
+    "id": "MultiFunctional Serivce Cart",
+    "name": "MultiFunctional Serivce Cart",
+    "slug": "MultiFunctional Serivce Cart",
+    "category": "Housekeeping Trolleys",
+    "description": "Multifunctional Serive Cart For Poratble And Easy To Use",
+    "industries": ["Hotels", "Hospitals", "Malls"],
+    "image": "/Trolleys/download.jpg"
+  },
+
 
   {
     "id": "Taski",
@@ -441,7 +632,7 @@
     "category": "Cleaning Chemicals",
     "description": "Disinfectant floor cleaner concentrate that sanitises and shines with a long-lasting fragrance.",
     "industries": ["Hospitals", "Corporate Offices", "Schools & Colleges"],
-    "image": "/Cleaning/Taski.jpg",
+    "image": "/Cleaning/Task.jpg",
     "featured": true
   },
   {
@@ -577,12 +768,12 @@
     "category": "Tissue & Dispenser Solutions",
     "description": "Soft, absorbent multifold towels for hygienic hand drying in busy washrooms.",
     "industries": ["Corporate Offices", "Hotels", "Malls"],
-    "image": "/products/MFoldT.jpg"
+    "image": "/products/MFold.jpg"
   },
   {
-    "id": "Face-tissue-roll",
-    "name": "Face Tissue Roll",
-    "slug": "face-tissue-roll",
+    "id": "Box Tissue",
+    "name": "Box Tissue",
+    "slug": "Box-Tissue",
     "category": "Tissue & Dispenser Solutions",
     "description": "Premium 2-ply toilet tissue that is soft, strong and gentle for everyday comfort.",
     "industries": ["Hotels", "Corporate Offices", "Banquet Halls"],
@@ -679,6 +870,49 @@
     "image": "/products/center-pull-dispenser.jpg"
   },
 
+  {
+    "id": "SS Quadrate Dispenser",
+    "name": "SS Quadrate Dispenser",
+    "slug": "SS quadrate dispenser",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "SS Quadrate Dispenser",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/products/Quadrate.jpg"
+  },
+
+  {
+    "id": "Toilet Paper Holder",
+    "name": "Toilet Paper Holder",
+    "slug": "toilet paper Holder",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "Toilet Paper Holder",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/products/TissueHolder.jpg"
+  },
+
+  {
+    "id": "Cube Dispenser",
+    "name": "Cube Dispenser",
+    "slug": "Cube dispenser",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "Cube Dispenser",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/products/Cube.jpg"
+  },
+
+  {
+    "id": "Pop Up Dispenser",
+    "name": "Pop Up Dispenser",
+    "slug": "Pop Up dispenser",
+    "category": "Tissue & Dispenser Solutions",
+    "description": "Pop Up Dispenser",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/products/Popup.jpg"
+  },
+
+
+
+
 
     
 
@@ -710,6 +944,38 @@
     "industries": ["Hotels", "Corporate Offices", "Banquet Halls"],
     "image": "/Washroom/ABS.webp"
   },
+
+  {
+    "id": "SS Jet Hand Dryer",
+    "name": "SS Jet Hand Dryer",
+    "slug": "ss-jet-hand-dryer",
+    "category": "Washroom Hygiene",
+    "description": "Automated Hand Dryer",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/Washroom/ssjet.jpg"
+  },
+
+  {
+    "id": "SS Nozzle Hand Dryer",
+    "name": "SS Nozzle Hand Dryer",
+    "slug": "ss-nozzle-hand-dryer",
+    "category": "Washroom Hygiene",
+    "description": "Automated Hand Dryer",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/Washroom/nozzle.jpg"
+  },
+
+  {
+    "id": "Hair Dryer",
+    "name": "Hair Dryer",
+    "slug": "hair-dryer",
+    "category": "Washroom Hygiene",
+    "description": "Hair Dryer",
+    "industries": ["Corporate Offices", "Hotels", "Malls"],
+    "image": "/Washroom/hair.webp"
+  },
+
+
   {
     "id": "Soap Dispenser",
     "name": "Soap Dispenser",
@@ -738,6 +1004,9 @@
     "industries": ["Corporate Offices", "Hotels", "Malls"],
     "image": "/Washroom/a.webp"
   },
+
+  
+
 
   {
     "id": "Room Freshener",
@@ -998,6 +1267,50 @@
     "image": "/Waste/grey.jpg"
   },
 
+{
+    "id": "Garbage Cover",
+    "name": "Garbage Cover",
+    "slug": "garbage cover",
+    "category": "Waste Management",
+    "description": "Dissposable Cover For Garbage",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Garbage.jpg"
+},
+
+{
+    "id": "Bio Medical Cover",
+    "name": "Bio Medical Cover",
+    "slug": "bio medical cover",
+    "category": "Waste Management",
+    "description": "Dissposable Cover For Hospital",
+    "industries": ["Hospitals"],
+    "image": "/Waste/Binmedical.jpg"
+},
+
+{
+    "id": "Bio Bag",
+    "name": "Bio Bag",
+    "slug": "Bio Bag",
+    "category": "Waste Management",
+    "description": "Dissposable Bio Cover For Garbage",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Bio.jpg"
+},
+
+{
+    "id": "Reprocessed Garbage Bag",
+    "name": "Reprocessed Garbage Bag",
+    "slug": "reprocessed garbage cover",
+    "category": "Waste Management",
+    "description": "Dissposable Cover For Garbage",
+    "industries": ["Malls", "Banquet Halls", "Schools & Colleges"],
+    "image": "/Waste/Reprocess.jpg"
+},
+
+
+
+
+  
   
 
   {

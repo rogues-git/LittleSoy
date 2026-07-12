@@ -33,9 +33,28 @@ export function Contact() {
         />
 
         <div className="mt-14 grid gap-8 lg:grid-cols-2">
-          {/* Left — company info + map */}
+          {/* Left — inquiry form (shown first) */}
           <motion.div
             variants={fadeLeft}
+            initial="hidden"
+            whileInView="visible"
+            viewport={viewportOnce}
+            className="rounded-3xl border border-black/5 bg-white p-7 shadow-card md:p-8"
+          >
+            <h3 className="font-display text-xl font-bold text-emerald">
+              Inquiry Form
+            </h3>
+            <p className="mt-1 text-sm text-ink/55">
+              Fill in the form and our team will respond within one business day.
+            </p>
+            <div className="mt-6">
+              <ContactForm />
+            </div>
+          </motion.div>
+
+          {/* Right — company info */}
+          <motion.div
+            variants={fadeRight}
             initial="hidden"
             whileInView="visible"
             viewport={viewportOnce}
@@ -72,25 +91,6 @@ export function Contact() {
               <p className="mt-6 border-t border-black/5 pt-4 text-sm text-ink/55">
                 {siteConfig.proprietor}
               </p>
-            </div>
-          </motion.div>
-
-          {/* Right — form */}
-          <motion.div
-            variants={fadeRight}
-            initial="hidden"
-            whileInView="visible"
-            viewport={viewportOnce}
-            className="rounded-3xl border border-black/5 bg-white p-7 shadow-card md:p-8"
-          >
-            <h3 className="font-display text-xl font-bold text-emerald">
-              Inquiry Form
-            </h3>
-            <p className="mt-1 text-sm text-ink/55">
-              Fill in the form and our team will respond within one business day.
-            </p>
-            <div className="mt-6">
-              <ContactForm />
             </div>
           </motion.div>
         </div>

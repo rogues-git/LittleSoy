@@ -32,6 +32,7 @@ export function ProductModal({
             className="relative grid max-h-[90vh] w-full max-w-3xl overflow-hidden rounded-3xl bg-white shadow-premium-lg md:grid-cols-2"
           >
             <button
+              type="button"
               onClick={onClose}
               aria-label="Close"
               className="absolute right-4 top-4 z-10 inline-flex h-10 w-10 items-center justify-center rounded-full bg-white/80 text-emerald shadow-sm transition hover:bg-emerald hover:text-white"
@@ -44,6 +45,7 @@ export function ProductModal({
                 src={product.image}
                 alt={product.name}
                 fill
+                sizes="(max-width: 768px) 100vw, 384px"
                 className="object-cover"
               />
             </div>
