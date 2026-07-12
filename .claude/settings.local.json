@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(node scripts/gen-hero.mjs)"
+      "Bash(node scripts/gen-hero.mjs)",
+      "Bash(git remote *)"
     ]
   }
 }
